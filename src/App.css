@@ -612,8 +612,9 @@ nav ul a:hover {
   display: grid;
   grid-template-columns: 1fr;
   grid-template-rows: auto auto;
-  width: 100%;
+  width: 95%;
   height: auto;
+  margin: auto;
   gap: 5rem;
 }
 .projects-grid .pro {

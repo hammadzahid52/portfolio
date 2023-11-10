@@ -19,7 +19,7 @@ function AboutMe() {
             <div className="text-side">
               <h3>About me</h3>
               <h4>
-                A dedicated .NET Developer
+                A dedicated Full Stack Developer
               </h4>
               <p>
                 MERN Stack Developer experienced with a diverse background in testing and web application development. Demonstrated ability to wear multiple hats and contribute across the entire stack. Skilled in adapting to changes in technology and life, with a passion for continuous learning.

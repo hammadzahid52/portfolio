@@ -3,6 +3,7 @@ import Raouf from "../assets/ecom.webp";
 import ProBox from "./Probox.jsx";
 import Chatapp from "../assets/chatapp.png";
 import fitlife from "../assets/fitlife.jpeg";
+import cryptoverse from "../assets/cryptoverse.png";
 import '../App.css';
 
 
@@ -70,7 +71,19 @@ function Projects() {
                 code="https://github.com/hammadzahid52/Nike-Clone.git"
                 demo="https://nike-clone-tailwindcss.netlify.app/"
                 scrollY="-89%"
-                
+              />
+
+                <ProBox
+                title="CryptoVerse"
+                date="(July 2023)"
+                img={cryptoverse}
+                description="Creatd CryptoVerse Web Application showing real time information about the crypto."
+                techno1="React"
+                techno2="recharts"
+                techno3="coingecko api"
+                code="https://github.com/hammadzahid52/crypto-bucks"
+                demo="https://crypto-bucks-one.vercel.app/"
+                scrollY="-89%"
               />
 
               
